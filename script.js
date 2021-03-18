@@ -21,7 +21,7 @@ function generatePassword(){
   var hasLowercase = confirm("Would you like to include lowercases?");
   var hasUppercase = confirm("Would you like to include uppercases?");
   var hasNumeric = confirm("Would you like to include numbers?");
-  var hasSymbols = confirm("Would you like include symbols?");
+  var hasSymbols = confirm("Would you like to include symbols?");
   if(hasLowercase === false && hasUppercase === false && hasNumeric === false && hasSymbols === false) {
     alert("Must choose at least one option!");
   }

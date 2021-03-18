@@ -22,20 +22,20 @@ Here is a screenshot of the initial page:
 
 Next, is a series of prompts. The user is asked to choose characters between 8-128:
 
-![prompt one](assets/indexprompti.png)
+![prompt one](assets/indexprompt-i.png)
 
 Then, the user is prompted to chose whether to include lowercase characters:
 
-![prompt two](assets/indexpromptii.png)
+![prompt two](assets/indexprompt-ii.png)
 
 The user is then asked to chose or dismiss the following characters:
 
-![prompt three](assets/indexpromptiii.png)
-![prompt four](assets/indexpromptiv.png)
-![prompt five](assets/indexpromptv.png)
+![prompt three](assets/indexprompt-iii.png)
+![prompt four](assets/indexprompt-iv.png)
+![prompt five](assets/indexprompt-v.png)
 
 Then, the final result is displayed for the user to utilize:
 
-![final](assets/indexpromptvi.png)
+![final](assets/indexprompt-vi.png)
 
 The user has now successfully obtained a unique password for personal use that fits the criteria selected.
